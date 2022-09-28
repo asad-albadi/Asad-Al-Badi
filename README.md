@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asad Al Badi
-- 👀 I’m interested in EVERYTHING IT, I love coding, I studied Software Engineering in College, and I wor as an Automation Engineer in Vodafone Oman.
+- 👀 I’m interested in EVERYTHING IT, I love coding, I studied Software Engineering in College, and I work as an Automation Engineer in Vodafone Oman.
 - 🌱 I’m currently trying to decide between Flutter, React.js ---> I ended up using both
 - 📫 you can reach me on Twitter <a href="https://twitter.com/asad0albadi" target="_blank">@asad0albadi</a>
    
