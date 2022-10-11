@@ -8,4 +8,4 @@ Deava0/Deava0 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?Deava0=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?deava0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
