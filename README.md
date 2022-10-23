@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 - Currently Working with the following languages:
    - Python (Automation)
    - Dart=>Flutter (Mobile/Desktop Apps)
-   - ReactJS=>CSS/HTML/JavaScript (PWA using MERN)
+   - CSS/HTML/JavaScript=>ReactJS (PWA using MERN)
 - Used To Work with:
    - Java=>JavaFX/Swing/Android (Desktop/Android Apps)
