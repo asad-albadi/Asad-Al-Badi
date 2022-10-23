@@ -14,3 +14,8 @@ You can click the Preview link to take a look at your changes.
    - CSS/HTML/JavaScript=>ReactJS (PWA using MERN)
 - Used To Work with:
    - Java=>JavaFX/Swing/Android (Desktop/Android Apps)
+- Databases:
+   - PostegreSQL
+   - MySQL
+   - MongoDB
+   - SQLite
